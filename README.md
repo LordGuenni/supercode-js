@@ -7,6 +7,7 @@ Mastermind is a classic game of logic and deduction. The goal of the game is to 
 - Guess the secret code consisting of a series of colors.
 - Each guess results in feedback narrowing down the possibilities of the code.
 - The game provides feedback in the form of black and white pegs, hinting at the presence and position of the colors in the secret code.
+
 ![Example](preview.png)
 
 ## Installation
