@@ -11,6 +11,7 @@ Mastermind is a classic game of logic and deduction. The goal of the game is to 
 <div align="center">
     <img src="preview.png" alt="Example">
 </div>
+
 ## Installation
 
 Clone the repository:
