@@ -16,7 +16,7 @@ Mastermind is a classic game of logic and deduction. The goal of the game is to 
 Clone the repository:
 
 \`\`\`bash
-git clone https://github.com/yourusername/mastermind.git
+git clone git@github.com:LordGuenni/supercode-js.git
 \`\`\`
 
 Open `index.html` in your web browser to start the game.
