@@ -1,0 +1,18 @@
+*._
+.vscode/
+*.code-workspace
+
+# Ignore build output
+out/
+
+# Ignore npm modules
+node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore Debug files
+*.debug
+
+# Ignore .env files
+*.env
