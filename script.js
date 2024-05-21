@@ -4,8 +4,6 @@ const colorOptions = document.querySelectorAll('.color-option');
 const colors = ['red', 'blue', 'green', 'yellow', 'brown'];
 const submitButton = document.getElementById('submit-guess');
 
-
-
 let secretCodeSet = false;
 let secretCode = new Array(4);
 let guess = new Array(4);
