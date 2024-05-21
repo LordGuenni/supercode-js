@@ -8,7 +8,6 @@ let secretCodeSet = false;
 let secretCode = new Array(4);
 let guess = new Array(4);
 
-// Allow Player 1 to set the Secret Code
 if (!secretCodeSet) {
     submitButton.textContent = 'Player 1 Enter Code Please';
 }
@@ -76,7 +75,7 @@ document.getElementById('submit-guess').addEventListener('click', function () {
         colorDisplays.forEach(display => {
             display.style.backgroundColor = '';
         });
-        alert('Code has been set, Player 2 can play now !');
+        setTimeout("alert('Code has been set, Player 2 can play now !');",1);
         secretCodeSet = true;
         submitButton.textContent = 'Submit Guess';
     }
