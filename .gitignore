@@ -16,3 +16,5 @@ node_modules/
 
 # Ignore .env files
 *.env
+
+.DS_Store
